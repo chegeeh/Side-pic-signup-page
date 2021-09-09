@@ -1,7 +1,7 @@
 # Side-pic-signup-page
 This is a signup page create with material ui and react js. Feel free to learn one or two things then customize
 
-this is how it looks after the implememntation.
+this is how it looks after the implememntation. Changes the photo on page load
 used random unsplashed photos
 
 ![Screenshot_2021-09-05_23_35_19](https://user-images.githubusercontent.com/41311815/132597319-eac18504-b0ac-4b07-9210-fe8a559751ab.png)
